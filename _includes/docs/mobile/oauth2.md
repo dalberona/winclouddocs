@@ -39,7 +39,7 @@ abstract class WinstarcloudAppConstants {
 ```
 
 {% capture oauth_2_domain %}
-**Note:** Domain name used in **thingsBoardApiEndpoint** constant should match to one of the domains configured in OAuth settings form.
+**Note:** Domain name used in **winstarCloudApiEndpoint** constant should match to one of the domains configured in OAuth settings form.
 {% endcapture %}
 {% include templates/info-banner.md content=oauth_2_domain %}
 

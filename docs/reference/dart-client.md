@@ -61,13 +61,13 @@ The next sample code shows how to instantiate WinstarCloud Client, perform login
 import 'package:winstarcloud_client/winstarcloud_client.dart';
 
 // WinstarCloud REST API URL
-const thingsBoardApiEndpoint = 'http://localhost:8080';
+const winstarCloudApiEndpoint = 'http://localhost:8080';
 
 void main() async {
   try {
 
     // Create instance of WinstarCloud API Client
-    var tbClient = WinstarcloudClient(thingsBoardApiEndpoint);
+    var tbClient = WinstarcloudClient(winstarCloudApiEndpoint);
 
     // Perform login with default Tenant Administrator credentials
     await tbClient.login(LoginRequest('tenant@winstarcloud.org', 'tenant'));
@@ -100,13 +100,13 @@ The following sample code shows how to fetch tenant devices via page link.
 import 'package:winstarcloud_client/winstarcloud_client.dart';
 
 // WinstarCloud REST API URL
-const thingsBoardApiEndpoint = 'http://localhost:8080';
+const winstarCloudApiEndpoint = 'http://localhost:8080';
 
 void main() async {
   try {
 
     // Create instance of WinstarCloud API Client
-    var tbClient = WinstarcloudClient(thingsBoardApiEndpoint);
+    var tbClient = WinstarcloudClient(winstarCloudApiEndpoint);
 
     // Perform login with default Tenant Administrator credentials
     await tbClient.login(LoginRequest('tenant@winstarcloud.org', 'tenant'));
@@ -138,13 +138,13 @@ The following sample code shows how to fetch tenant dashboards via page link.
 import 'package:winstarcloud_client/winstarcloud_client.dart';
 
 // WinstarCloud REST API URL
-const thingsBoardApiEndpoint = 'http://localhost:8080';
+const winstarCloudApiEndpoint = 'http://localhost:8080';
 
 void main() async {
   try {
 
     // Create instance of WinstarCloud API Client
-    var tbClient = WinstarcloudClient(thingsBoardApiEndpoint);
+    var tbClient = WinstarcloudClient(winstarCloudApiEndpoint);
 
     // Perform login with default Tenant Administrator credentials
     await tbClient.login(LoginRequest('tenant@winstarcloud.org', 'tenant'));
@@ -176,13 +176,13 @@ The following sample code shows how to fetch customer devices via page link.
 import 'package:winstarcloud_client/winstarcloud_client.dart';
 
 // WinstarCloud REST API URL
-const thingsBoardApiEndpoint = 'http://localhost:8080';
+const winstarCloudApiEndpoint = 'http://localhost:8080';
 
 void main() async {
   try {
 
     // Create instance of WinstarCloud API Client
-    var tbClient = WinstarcloudClient(thingsBoardApiEndpoint);
+    var tbClient = WinstarcloudClient(winstarCloudApiEndpoint);
 
     // Perform login with default Customer User credentials
     await tbClient.login(LoginRequest('customer@winstarcloud.org', 'customer'));
@@ -216,13 +216,13 @@ The following sample code shows how to use Entity Data Query API to count total 
 import 'package:winstarcloud_client/winstarcloud_client.dart';
 
 // WinstarCloud REST API URL
-const thingsBoardApiEndpoint = 'http://localhost:8080';
+const winstarCloudApiEndpoint = 'http://localhost:8080';
 
 void main() async {
   try {
 
     // Create instance of WinstarCloud API Client
-    var tbClient = WinstarcloudClient(thingsBoardApiEndpoint);
+    var tbClient = WinstarcloudClient(winstarCloudApiEndpoint);
 
     // Perform login with default Tenant Administrator credentials
     await tbClient.login(LoginRequest('tenant@winstarcloud.org', 'tenant'));
@@ -284,13 +284,13 @@ The following sample code shows how to use Entity Data Query API to get all acti
 import 'package:winstarcloud_client/winstarcloud_client.dart';
 
 // WinstarCloud REST API URL
-const thingsBoardApiEndpoint = 'http://localhost:8080';
+const winstarCloudApiEndpoint = 'http://localhost:8080';
 
 void main() async {
   try {
 
     // Create instance of WinstarCloud API Client
-    var tbClient = WinstarcloudClient(thingsBoardApiEndpoint);
+    var tbClient = WinstarcloudClient(winstarCloudApiEndpoint);
 
     // Perform login with default Tenant Administrator credentials
     await tbClient.login(LoginRequest('tenant@winstarcloud.org', 'tenant'));
@@ -363,13 +363,13 @@ The following sample code demonstrates basic concepts of device management API (
 import 'package:winstarcloud_client/winstarcloud_client.dart';
 
 // WinstarCloud REST API URL
-const thingsBoardApiEndpoint = 'http://localhost:8080';
+const winstarCloudApiEndpoint = 'http://localhost:8080';
 
 void main() async {
   try {
 
     // Create instance of WinstarCloud API Client
-    var tbClient = WinstarcloudClient(thingsBoardApiEndpoint);
+    var tbClient = WinstarcloudClient(winstarCloudApiEndpoint);
 
     // Perform login with default Tenant Administrator credentials
     await tbClient.login(LoginRequest('tenant@winstarcloud.org', 'tenant'));
@@ -428,13 +428,13 @@ import 'dart:math';
 import 'package:winstarcloud_client/winstarcloud_client.dart';
 
 // WinstarCloud REST API URL
-const thingsBoardApiEndpoint = 'http://localhost:8080';
+const winstarCloudApiEndpoint = 'http://localhost:8080';
 
 void main() async {
   try {
 
     // Create instance of WinstarCloud API Client
-    var tbClient = WinstarcloudClient(thingsBoardApiEndpoint);
+    var tbClient = WinstarcloudClient(winstarCloudApiEndpoint);
 
     // Perform login with default Tenant Administrator credentials
     await tbClient.login(LoginRequest('tenant@winstarcloud.org', 'tenant'));

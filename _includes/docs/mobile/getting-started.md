@@ -140,12 +140,12 @@ git clone -b release/{{flutterAppVer}} {{appRepo}}
 
 Open **{{appProject}}** project in your editor/IDE. Edit **lib/constants/app_constants.dart**.
 
-Set value of **thingsBoardApiEndpoint** constant to match api endpoint of your {{appPrefix}} server instance.<br>
+Set value of **winstarCloudApiEndpoint** constant to match api endpoint of your {{appPrefix}} server instance.<br>
 In case of {{cloudApp}} set it to `{{cloudEndpoint}}`.
 
 ```dart
 abstract class WinstarcloudAppConstants {
-  static final thingsBoardApiEndpoint = '{{cloudEndpoint}}';
+  static final winstarCloudApiEndpoint = '{{cloudEndpoint}}';
   
   ...
 }

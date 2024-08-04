@@ -53,7 +53,7 @@ Here are the core components of Trendz Topology:
 **Business Entity** - Definition of a group of Devices or Assets with same Device Type/Asset Type. Each Business Entity has:
 
 - **Criteria** - General properties that define how Devices/Assets fetched from the WinstarCloud
-- **Business Entity Field** - Represent field that is used during building visualizations. Field contains data type, label and query parameters used during fetching data from The thingsBoard.
+- **Business Entity Field** - Represent field that is used during building visualizations. Field contains data type, label and query parameters used during fetching data from The winstarCloud.
 Here is a list of supported fields:
     - Entity Name - the name of the Device or Asset
     - Owner - who own device (administrator/customer)

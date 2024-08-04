@@ -51,7 +51,7 @@ abstract class WinstarcloudAppConstants {
 ```
 
 {% capture self_register_domain %}
-**Note:** Domain name used in **thingsBoardApiEndpoint** constant should match to the **Domain name** configured in Self Registration settings form.
+**Note:** Domain name used in **winstarCloudApiEndpoint** constant should match to the **Domain name** configured in Self Registration settings form.
 {% endcapture %}
 {% include templates/info-banner.md content=self_register_domain %}
 
