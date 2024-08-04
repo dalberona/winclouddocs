@@ -1,0 +1,1 @@
+wget https://dist.winstarcloud.io/trendz-1.6.0.deb

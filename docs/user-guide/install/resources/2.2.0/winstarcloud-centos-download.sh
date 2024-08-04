@@ -1,0 +1,1 @@
+wget https://github.com/winstarcloud/winstarcloud/releases/download/v2.2/winstarcloud-2.2.rpm

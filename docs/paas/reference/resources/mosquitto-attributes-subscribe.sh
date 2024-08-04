@@ -1,0 +1,1 @@
+mosquitto_sub -d -h "mqtt.winstarcloud.cloud" -t "v1/devices/me/attributes" -u "$ACCESS_TOKEN"

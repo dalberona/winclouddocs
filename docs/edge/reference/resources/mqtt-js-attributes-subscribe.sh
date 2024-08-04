@@ -1,0 +1,1 @@
+mqtt sub -v -h "$WINSTARCLOUD_EDGE_HOST_NAME" -t "v1/devices/me/attributes" -u '$ACCESS_TOKEN'

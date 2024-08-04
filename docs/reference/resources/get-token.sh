@@ -1,0 +1,1 @@
+curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' -d '{"username":"tenant@winstarcloud.org", "password":"tenant"}' 'http://WINSTARCLOUD_URL/api/auth/login'

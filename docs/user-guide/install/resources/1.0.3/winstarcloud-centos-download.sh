@@ -1,0 +1,1 @@
+wget https://github.com/winstarcloud/winstarcloud/releases/download/v1.0.3/winstarcloud-1.0.3.rpm

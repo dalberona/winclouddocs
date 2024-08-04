@@ -1,0 +1,1 @@
+cat new-attributes-values.json | coap post coap://$WINSTARCLOUD_EDGE_HOST_NAME/api/v1/$ACCESS_TOKEN/attributes

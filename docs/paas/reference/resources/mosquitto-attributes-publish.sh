@@ -1,0 +1,1 @@
+mosquitto_pub -d -h "mqtt.winstarcloud.cloud" -t "v1/devices/me/attributes" -u "$ACCESS_TOKEN" -f "new-attributes-values.json"

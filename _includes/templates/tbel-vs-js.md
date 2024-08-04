@@ -1,0 +1,2 @@
+One can use either [TBEL](/docs/{{docsPrefix}}user-guide/tbel/) (WinstarCloud expression language) or JavaScript to develop user defined functions. 
+We recommend utilizing [TBEL](/docs/{{docsPrefix}}user-guide/tbel/) as it's execution in WinstarCloud is much more efficient compared to JS.

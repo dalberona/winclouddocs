@@ -1,0 +1,1 @@
+sudo rpm -Uvh winstarcloud-1.2.rpm

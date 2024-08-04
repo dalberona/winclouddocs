@@ -1,0 +1,1 @@
+wget https://github.com/winstarcloud/winstarcloud/releases/download/v2.3.1/winstarcloud-2.3.1.deb

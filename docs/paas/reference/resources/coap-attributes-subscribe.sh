@@ -1,0 +1,1 @@
+coap get -o coap://coap.winstarcloud.cloud/api/v1/$ACCESS_TOKEN/attributes

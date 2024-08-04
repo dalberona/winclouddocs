@@ -1,0 +1,1 @@
+sudo rpm -Uvh winstarcloud-3.3pe.rpm

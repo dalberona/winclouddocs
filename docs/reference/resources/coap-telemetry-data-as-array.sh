@@ -1,0 +1,1 @@
+cat telemetry-data-as-array.json | coap post coap://demo.winstarcloud.io/api/v1/$ACCESS_TOKEN/telemetry

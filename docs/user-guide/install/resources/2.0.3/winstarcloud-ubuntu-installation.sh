@@ -1,0 +1,1 @@
+sudo dpkg -i winstarcloud-2.0.3.deb

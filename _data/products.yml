@@ -1,0 +1,82 @@
+- title: Community Edition
+  fulltitle: WinstarCloud Community Edition
+  description: WinstarCloud Documentation
+  tag: ce
+  icon: /images/winstarcloud-cm-icon.svg
+  path: /docs/
+  guides: /docs/guides/
+  getStarted: /docs/getting-started-guides/helloworld/
+  docsPrefix: /docs/
+- title: Professional Edition
+  fulltitle: WinstarCloud Professional Edition
+  description: WinstarCloud Documentation
+  tag: pe
+  icon: /images/winstarcloud-p-icon.svg
+  path: /docs/pe/
+  guides: /docs/pe/guides/
+  getStarted: /docs/pe/getting-started-guides/helloworld/
+  docsPrefix: /docs/pe/
+- title: Cloud
+  fulltitle: WinstarCloud Cloud
+  description: WinstarCloud Documentation
+  tag: paas
+  icon: /images/winstarcloud-c-icon.svg
+  path: /docs/paas/
+  guides: /docs/paas/guides/
+  getStarted: /docs/paas/getting-started-guides/helloworld/
+  docsPrefix: /docs/paas/
+- title: Edge
+  fulltitle: WinstarCloud Edge
+  description: WinstarCloud Edge Documentation
+  tag: edge
+  icon: /images/winstarcloud-e-icon.svg
+  path: /docs/edge/
+- title: PE Edge
+  fulltitle: WinstarCloud PE Edge
+  description: WinstarCloud PE Edge Documentation
+  tag: edge-pe
+  icon: /images/winstarcloud-e-icon.svg
+  path: /docs/pe/edge/
+- title: IoT Gateway
+  fulltitle: WinstarCloud IoT Gateway
+  description: WinstarCloud Documentation
+  tag: gw
+  icon: /images/gateway-icon.svg
+  path: /docs/iot-gateway/
+  getStarted: /docs/iot-gateway/getting-started/
+- title: License Server
+  fulltitle: WinstarCloud License Server
+  description: WinstarCloud Documentation
+  tag: license
+  icon: /images/license-icon.svg
+  path: /products/license-server/
+- title: Trendz Analytics
+  fulltitle: Trendz Analytics
+  description: Trendz Documentation
+  tag: trendz
+  icon: /images/trendz-icon.svg
+  path: /docs/trendz/
+  getStarted: /docs/trendz/getting-started/
+- title: Mobile Application
+  fulltitle: WinstarCloud Mobile Application
+  description: Mobile Application Documentation
+  tag: mobile
+  icon: /images/tb-mobile-icon.svg
+  path: /docs/mobile/
+  docsPrefix: /docs/mobile/
+  getStarted: /docs/mobile/getting-started/
+- title: PE Mobile Application
+  fulltitle: WinstarCloud PE Mobile Application
+  description: PE Mobile Application Documentation
+  tag: mobile-pe
+  icon: /images/tb-pe-mobile-icon.svg
+  path: /docs/pe/mobile/
+  docsPrefix: /docs/pe/mobile/
+  getStarted: /docs/pe/mobile/getting-started/
+- title: MQTT Broker
+  fulltitle: MQTT Broker
+  description: MQTT Broker Documentation
+  tag: mqtt-broker
+  icon: /images/tbmq-icon.svg
+  path: /docs/mqtt-broker/
+  getStarted: /docs/mqtt-broker/getting-started/

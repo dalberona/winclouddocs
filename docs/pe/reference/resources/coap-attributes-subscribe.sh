@@ -1,0 +1,1 @@
+coap get -o coap://$WINSTARCLOUD_HOST_NAME/api/v1/$ACCESS_TOKEN/attributes

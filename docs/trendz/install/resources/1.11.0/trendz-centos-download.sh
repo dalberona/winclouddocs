@@ -1,0 +1,1 @@
+wget https://dist.winstarcloud.io/trendz-1.11.0.rpm

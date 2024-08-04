@@ -1,0 +1,1 @@
+mqtt sub -v -h "mqtt.winstarcloud.cloud" -t "v1/devices/me/attributes" -u '$ACCESS_TOKEN'

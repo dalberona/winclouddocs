@@ -1,0 +1,1 @@
+curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' -d '{"username":"sysadmin@winstarcloud.org", "password":"sysadmin"}' 'http://WINSTARCLOUD_MQTT_BROKER_URL/api/auth/login'

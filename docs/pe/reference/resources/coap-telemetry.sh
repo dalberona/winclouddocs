@@ -1,0 +1,1 @@
+cat telemetry-data-as-object.json | coap post coap://$WINSTARCLOUD_HOST_NAME/api/v1/$ACCESS_TOKEN/telemetry
